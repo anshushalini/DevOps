@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/json-schema-validator-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/json-schema-validator-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/rest-assured-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/rest-assured-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/docs/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/activation-1.1.1 - Copy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jackson-core-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jackson-databind-2.9.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/json-path-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/json-schema-validator-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/scala-library-2.12.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/scala-support-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-aop-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-beans-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-commons-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-context-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-core-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-expression-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-mock-mvc-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-test-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-web-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-webmvc-4.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/spring-web-test-client-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Desktop/files/xml-path-3.3.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Amod Kumar Gupta/Downloads/selenium-server-4.0.0-alpha-5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
